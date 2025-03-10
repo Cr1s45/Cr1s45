@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">`nombre: `Nadia<br>`edad:` 20<br>`ubicación: Un lugar muy triste en el mundo 🌫️<br>`bebida_favorita:` Bubble tea de mora  azul<br>`emoji_favorito: `👻</p>
+<p align="left">nombre: Nadia<br>edad: 20<br>ubicación: Un lugar muy triste en el mundo 🌫️<br>bebida_favorita: Bubble tea de mora  azul<br>emoji_favorito: 👻</p>
 
 ###
 
