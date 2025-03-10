@@ -71,18 +71,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/playlist/3GecW8wsjiWc5EOorkMsBe?si=fdafa14b1887498e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/playlist/3GecW8wsjiWc5EOorkMsBe?si=fdafa14b1887498e&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Cr1s45/Cr1s45/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
   <img height="200" src="https://i.pinimg.com/736x/ce/b5/a1/ceb5a1e07d82a767a09226a2dec26570.jpg"  />
 </div>
 
