@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">nombre: Nadia<br>edad: 20<br>ubicación: Un lugar muy triste en el mundo 🌫️<br>bebida_favorita: Bubble tea de mora  azul<br>emoji_favorito: 👻</p>
+<p align="left">nombre: Nadia<br>edad: 21<br>ubicación: Mexico 🌫️<br>bebida_favorita: Bubble tea de mora  azul<br>emoji_favorito: 👻</p>
 
 ###
 
@@ -29,7 +29,10 @@
 
 ###
 
-<p align="left">💻 Web Designer & Security Enthusiast | 🎨 Explorando el arte de construir y configurar páginas<br>🔍 Aprendiendo ciberseguridad | 🚀 Curiosa por el mundo del hacking ético y la defensa digital<br>🐍 Python tinkerer | 📦 Experimentando con MongoDB y Visual Studio<br><br>🎶 Artistas Favoritos: NSQK, Álvaro Díaz, Twenty One Pilots, Latin Mafia, Duki, Saramalacara y más<br>🖤 Frase:"We are broken."</p>
+<p align="left">💻 Data Analyst & Cybersecurity Student
+📊 Interesada en análisis de datos, visualización y automatización con Python
+🛠️ Experiencia con Power BI, Excel, SQL y herramientas de redes
+📚 Actualmente aprendiendo análisis de datos y desarrollo backend</p>
 
 ###
 
